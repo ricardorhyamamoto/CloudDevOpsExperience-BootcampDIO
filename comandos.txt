@@ -1,0 +1,8 @@
+REALIZANDO INSTALAÇÃO DO DOCKER NO UBUNTU SERVER
+
+UTILIZAMOS A VERSÃO SCRIPT DE INSTALAÇÃO
+
+https://docs.docker.com/engine/install/ubuntu/
+
+# curl -fsSL https://get.docker.com -o get-docker.sh
+# sh get-docker.sh
